@@ -1,0 +1,15 @@
+body{
+    background-color:thistle;
+    text-align: center;
+}
+.for_label{
+    color: darkcyan;
+    font-size:0.6cm;
+    font-style: italic;
+}
+.for-type{
+    color: blue;
+}
+input[type="password"]{
+    color: green;
+}
